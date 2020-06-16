@@ -1,0 +1,169 @@
+{
+    "themeOneSidebarData": {
+        "widgetTitle_1": "Categories",
+        "widgetTitle_2": "Popular Post",
+        "widgetTitle_3": "Popular Tags",
+        "widgetData_1": [
+            {
+                "id": 1,
+                "text": "Web Design",
+                "content": "(14)"
+            },
+            {
+                "id": 2,
+                "text": "App Landing",
+                "content": "(32)"
+            },
+            {
+                "id": 3,
+                "text": "Wordpress",
+                "content": "(27)"
+            },
+            {
+                "id": 4,
+                "text": "UI Design",
+                "content": "(18)"
+            },
+            {
+                "id": 5,
+                "text": "Bootstrap",
+                "content": "(15)"
+            },
+            {
+                "id": 6,
+                "text": "Web Template",
+                "content": "(29)"
+            }
+        ],
+        "widgetData_2": [
+            {
+                "id": 1,
+                "image": "/img/avatar_1.png",
+                "date": "05 Feb, 2020",
+                "title": "Promote Your Apps With Appo"
+            },
+            {
+                "id": 2,
+                "image": "/img/avatar_2.png",
+                "date": "12 Feb, 2020",
+                "title": "Sell Your Product Like Never Before"
+            },
+            {
+                "id": 3,
+                "image": "/img/avatar_3.png",
+                "date": "13 Jul, 2020",
+                "title": "Built For Passionate People"
+            },
+            {
+                "id": 4,
+                "image": "/img/avatar_4.png",
+                "date": "03 Oct, 2020",
+                "title": "Get Unlimited Offers & Plans"
+            }
+        ],
+        "widgetData_3": [
+            {
+                "id": 1,
+                "text": "Appo"
+            },
+            {
+                "id": 2,
+                "text": "Bootstrap"
+            },
+            {
+                "id": 3,
+                "text": "IOS"
+            },
+            {
+                "id": 4,
+                "text": "Android"
+            },
+            {
+                "id": 5,
+                "text": "Landing Page"
+            },
+            {
+                "id": 6,
+                "text": "Business"
+            },
+            {
+                "id": 7,
+                "text": "Fashion"
+            },
+            {
+                "id": 8,
+                "text": "Media"
+            },
+            {
+                "id": 9,
+                "text": "Lifestyle"
+            },
+            {
+                "id": 10,
+                "text": "Wordpress"
+            },
+            {
+                "id": 11,
+                "text": "Web Design"
+            },
+            {
+                "id": 12,
+                "text": "Mobile App"
+            }
+        ]
+    },
+    "themeOneBlogDetails": {
+        "title": "Promote your product to a new level with Appo",
+        "image": "/img/blog_1.jpg",
+        "author": "Anna Swford",
+        "date": "05 Feb, 2020",
+        "comments": "2 Comments",
+        "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique placeat deleniti repellat alias maiores corrupti, commodi rem eum molestiae distinctio vitae perferendis at esse ex quas hic quis debitis quasi aspernatur incidunt, excepturi sapiente ducimus nisi. Ad molestiae, blanditiis ducimus.",
+        "text_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est mollitia, tenetur libero voluptate quisquam consectetur facilis natus molestiae officiis aperiam.",
+        "text_3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique placeat deleniti repellat alias maiores corrupti, commodi rem eum molestiae distinctio vitae perferendis at esse ex quas hic quis debitis quasi aspernatur incidunt, excepturi sapiente ducimus nisi. Ad molestiae, blanditiis ducimus.",
+        "text_4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est mollitia, tenetur libero voluptate quisquam consectetur facilis natus molestiae officiis aperiam.",
+        "quoteText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime magnam, molestias omnis quam veritatis consectetur nihil aliquid quo culpa? Ullam molestiae id temporibus nemo inventore, at reiciendis distinctio porro atque!",
+        "quoteText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur ullam dolor, omnis maiores molestiae ducimus.",
+        "adminImage": "/img/avatar_1.png",
+        "admin": "Anna Swford",
+        "adminText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo eius nam facere enim, voluptas incidunt officiis molestiae, nostrum dolor? Fugit.",
+        "commentsTitle": "Recent Comments",
+        "commentsPost": "Post your Comments",
+        "btnText": "Send Message",
+        "iconList": [
+            {
+                "id": 1,
+                "link": "bg-white facebook",
+                "iconClass": "fab fa-facebook-f"
+            },
+            {
+                "id": 2,
+                "link": "bg-white twitter",
+                "iconClass": "fab fa-twitter"
+            },
+            {
+                "id": 3,
+                "link": "bg-white google-plus",
+                "iconClass": "fab fa-google-plus-g"
+            }
+        ],
+        "commentsData": [
+            {
+                "id": 1,
+                "commentsImage": "/img/avatar_2.png",
+                "commentsAuthor": "Junaid Hasan",
+                "replyText": "Reply",
+                "commentsText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere optio ipsum maiores mollitia quisquam.",
+                "commentsText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 2,
+                "commentsImage": "/img/avatar_3.png",
+                "commentsAuthor": "Jassica William",
+                "replyText": "Reply",
+                "commentsText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere optio ipsum maiores mollitia quisquam.",
+                "commentsText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            }
+        ]
+    }
+}
