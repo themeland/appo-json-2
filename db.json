@@ -1,4 +1,9 @@
 {
+    "themeOneContactSection": {
+        "heading": "Stay Tuned",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati."
+    },
     "themeOneFooterSection": {
         "image": "/img/logo-white.png",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
