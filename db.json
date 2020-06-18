@@ -100,7 +100,7 @@
             }
         ]
     },
-    "themeOneSidebarData": {
+    "themeOneSidebarSection": {
         "widgetTitle_1": "Categories",
         "widgetTitle_2": "Popular Post",
         "widgetTitle_3": "Popular Tags",
